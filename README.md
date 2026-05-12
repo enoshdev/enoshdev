@@ -20,6 +20,7 @@ Currently   : Building AI-powered developer tools & contributing to OSS
 Stack       : Python · JavaScript · HTML · CSS
 Interests   : LLMs · Backend Systems · Developer Tooling
 Motto       : "Ship fast. Learn faster. Build for others."
+'''
 🧠 Tech Stack
 Languages
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
