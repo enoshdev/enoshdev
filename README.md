@@ -39,12 +39,53 @@ Goal        : Build meaningful products that help developers
 
 ## 🚀 Featured Projects
 
-### 🤖 devdocs-ai
+<div align="center">
 
-AI-powered developer utility that analyzes Python code and generates cleaner documentation with intelligent suggestions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Used:**
-`Python` `Groq API` `LLaMA 3.1` `Developer Tooling`
+<h3>🤖 DevDocs AI</h3>
+
+<p>
+AI-powered developer utility that reads Python code and generates professional documentation with intelligent improvement suggestions.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_API-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLaMA_3.1-0467DF?style=flat-square"/>
+</p>
+
+<a href="https://github.com/enoshdev">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌍 OpenContrib</h3>
+
+<p>
+Open-source discovery platform designed to help developers find beginner-friendly repositories and meaningful contribution opportunities.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square"/>
+</p>
+
+<a href="https://github.com/enoshdev">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
