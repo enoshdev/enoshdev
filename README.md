@@ -1,131 +1,144 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gollapalli%20J.%20Enosh&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=00ffcc&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=58&descSize=18&descColor=ff00ff" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=GJ%20Enosh&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Building%20tools%20that%20make%20devs%20love%20what%20they%20do&descAlignY=55&descSize=18" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=echo+%22Hello%2C+World!%22;system%3E+init+enosh.dev;AI+%3E+Full+Stack+%3E+OSS" alt="Typing SVG" />
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+Tools+Builder+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Python+%26+Web+Dev+Enthusiast+%F0%9F%90%8D;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/enoshdev?style=for-the-badge&color=00C9FF&labelColor=0d1117&logo=github)](https://github.com/enoshdev)
-[![Profile Views](https://komarev.com/ghpvc/?username=enoshdev&style=for-the-badge&color=00C9FF&labelColor=0d1117)](https://github.com/enoshdev)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-00C9FF?style=for-the-badge&labelColor=0d1117)](https://github.com/enoshdev)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/gollapalli-j-enosh-623931284/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFCC" /></a>
+  <a href="mailto:enoshgollapalli@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF00FF" /></a>
+  <a href="https://github.com/enoshdev"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFCC" /></a>
+  <img src="https://komarev.com/ghpvc/?username=enoshdev&label=PROFILE+VIEWS&style=for-the-badge&color=FF00FF&base=0" alt="Profile views" />
 </div>
 
 ---
 
-## 🚀 About Me
-
-```python
-class GJEnosh:
-    name       = "GJ Enosh"
-    username   = "enoshdev"
-    location   = "Hyderabad, Telangana, India 🇮🇳"
-    focus      = ["AI Tools", "Open Source", "Developer Tooling"]
-    languages  = ["Python", "HTML", "JavaScript"]
-    currently  = "Building AI-powered dev tools & contributing to open source"
-    ask_me_about = ["AI integrations", "LLMs", "Open Source contribution"]
-    fun_fact   = "I built a tool that teaches devs how to contribute to OSS 🌍"
-```
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+yaml
+> whoami
+Name : Gollapalli J. Enosh
+Alias : enoshdev
+Location : Hyderabad, Telangana, India 🇮🇳
+Focus :
+- 🤖 AI/ML Engineering
+- 🌐 Full Stack Development
+- 🔓 Open Source Contribution
+Stack : Python · JavaScript · HTML/CSS
+Currently : Building AI-powered developer tools
+& contributing to meaningful OSS projects
+Interests : LLMs · Backend Systems · Dev Tooling
+Motto : "Ship fast. Learn faster. Build for others."
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq%20LLaMA-FF4500?style=for-the-badge&logo=ai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00FFCC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FF00FF)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=00FFCC)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=FF00FF)
+
+**AI / ML**  
+![Groq](https://img.shields.io/badge/Groq-0A0A0A?style=for-the-badge&logoColor=FF00FF)
+![LLaMA](https://img.shields.io/badge/LLaMA%203.1-0A0A0A?style=for-the-badge&logoColor=00FFCC)
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=FF00FF)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00FFCC)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF00FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visual-studio-code&logoColor=00FFCC)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FF00FF)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=00FFCC)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Flagship Projects
 
 <div align="center">
-
-<a href="https://github.com/enoshdev/devdocs-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=devdocs-ai&theme=tokyonight&border_color=00C9FF&title_color=00C9FF&icon_color=92FE9D" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/enoshdev/opencontrib">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=opencontrib&theme=tokyonight&border_color=00C9FF&title_color=00C9FF&icon_color=92FE9D" />
-</a>
-
+  <a href="https://github.com/enoshdev/devdocs-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=devdocs-ai&theme=radical&border_color=00FFCC&title_color=00FFCC&icon_color=FF00FF&bg_color=0A0A0A" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/enoshdev/opencontrib">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=opencontrib&theme=radical&border_color=00FFCC&title_color=00FFCC&icon_color=FF00FF&bg_color=0A0A0A" />
+  </a>
 </div>
 
 <br/>
 
-### 🤖 [devdocs-ai](https://github.com/enoshdev/devdocs-ai)
-> AI-powered tool that **explains Python code**, generates docstrings automatically, and suggests improvements — powered by **Groq LLaMA 3.1**.
-> Perfect for developers who want clean, documented, production-grade Python.
-
-### 🌍 [opencontrib](https://github.com/enoshdev/opencontrib)
-> Smart open source project discovery — finds projects **matching your skill level** and surfaces `good first issue` tickets so you can make your first contribution with confidence.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 devdocs-ai</h3>
+      <p>An AI-powered developer tool that reads your Python code, understands it deeply, and automatically generates professional docstrings + improvement suggestions — powered by Groq LLaMA 3.1.</p>
+      <p><strong>Why it matters:</strong> Most devs skip documentation. This fixes that.</p>
+      <p><code>Python</code> <code>LLaMA 3.1</code> <code>Groq API</code> <code>AI Tooling</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 opencontrib</h3>
+      <p>A smart discovery engine that helps developers — especially beginners — find open source projects that match their exact skill set and surfaces <code>good first issues</code> to make that first contribution easy.</p>
+      <p><strong>Why it matters:</strong> OSS entry is intimidating. This removes that barrier.</p>
+      <p><code>HTML</code> <code>JavaScript</code> <code>Open Source</code> <code>Dev Tooling</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=enoshdev&show_icons=true&theme=tokyonight&border_color=00C9FF&title_color=00C9FF&icon_color=92FE9D&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoshdev&layout=compact&theme=tokyonight&border_color=00C9FF&title_color=00C9FF" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=enoshdev&theme=tokyonight&border=00C9FF&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF" height="150"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=enoshdev&show_icons=true&theme=radical&border_color=00FFCC&title_color=00FFCC&icon_color=FF00FF&bg_color=0A0A0A&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoshdev&layout=compact&theme=radical&border_color=00FFCC&title_color=00FFCC&bg_color=0A0A0A" height="165"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=enoshdev&theme=radical&border=00FFCC&ring=00FFCC&fire=FF00FF&currStreakLabel=00FFCC&background=0A0A0A" height="155"/>
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=enoshdev&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=enoshdev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enoshdev&theme=tokyo-night&color=00C9FF&line=92FE9D&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enoshdev&theme=react-dark&bg_color=0A0A0A&color=00FFCC&line=FF00FF&point=00FFCC&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-enoshdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enoshdev)
-[![Location](https://img.shields.io/badge/📍-Hyderabad,%20India-00C9FF?style=for-the-badge&labelColor=0d1117)](https://github.com/enoshdev)
-
-<br/>
-
-*Always open to collaborating on interesting AI/dev tools projects!*
-
-</div>
-
+## 💡 Current Focus
+javascript
+const enosh = {
+learning : ["Advanced AI/ML", "Full Stack with React + Node", "System Design"],
+building : ["AI developer tools", "Open source projects"],
+contributing : ["Krako-Labs/KORA", "and more..."],
+goal_2025 : "Ship 10 meaningful OSS contributions & land a dev role 🎯",
+available : "Open to collaborations, internships & cool side projects 🤝"
+};
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer&animation=fadeIn" width="100%"/>
-
+  <blockquote><i>"The best code is code that helps someone else build something great."</i></blockquote>
+  <br/>
+  <a href="https://www.linkedin.com/in/gollapalli-j-enosh-623931284/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFCC" /></a>
+  <a href="mailto:enoshgollapalli@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF00FF" /></a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
