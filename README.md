@@ -1,12 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff88&height=200&section=header&text=GJ%20ENOSH&fontSize=80&fontColor=00ff88&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Open%20Source%20Contributor&descColor=aaffaa&descSize=16&fontAlignY=38&descAlignY=58" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a0d,100:00ff88&height=220&section=header&text=GJ%20ENOSH&fontSize=90&fontColor=00ff88&animation=fadeIn&desc=_______AI%20ENGINEER%20%7C%20FULL%20STACK%20DEV%20%7C%20OSS%20CONTRIBUTOR_______&descColor=00cc66&descSize=13&fontAlignY=40&descAlignY=62&stroke=00ff88&strokeWidth=2)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+AI+tools+that+devs+actually+love+%F0%9F%A4%96;B.Tech+IT+%40+Vasavi+College+of+Engineering+%F0%9F%8E%93;Python+%7C+Java+%7C+React+%7C+Flask+%7C+MongoDB;Consistent+OSS+contributor+%7C+Always+shipping+%F0%9F%9A%80;Masters+in+Germany+someday+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  SYSTEM ONLINE  ·  LOCATION: HYDERABAD, INDIA  ·  STATUS: BUILDING  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=%24+whoami+%3E+AI+%2F+Full+Stack+Engineer+%40+Vasavi+College;%24+sudo+build+--target%3Dproduction+--ship-it;%24+git+push+origin+main+%23+always+building;%24+python+train.py+--model%3Dllama+--mode%3Dhacker;%24+./dream.sh+%23+Masters+in+Germany+some+day+%F0%9F%87%A9%F0%9F%87%AA)
 
 </div>
 
@@ -14,10 +24,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enoshgollapalli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enoshdev)
-[![Profile Views](https://komarev.com/ghpvc/?username=enoshdev&style=for-the-badge&color=00ff88&labelColor=0d1117&label=VIEWS)](https://github.com/enoshdev)
+[![LinkedIn](https://img.shields.io/badge/_%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
+[![Gmail](https://img.shields.io/badge/_%20GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:enoshgollapalli@gmail.com)
+[![GitHub](https://img.shields.io/badge/_%20GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/enoshdev)
+[![Views](https://komarev.com/ghpvc/?username=enoshdev&style=for-the-badge&color=00ff88&labelColor=000000&label=VISITORS)](https://github.com/enoshdev)
 
 </div>
 
@@ -31,97 +41,133 @@
   "alias"    : "enoshdev",
   "college"  : "Vasavi College of Engineering, Hyderabad",
   "degree"   : "B.Tech — Information Technology (2028)",
-  "location" : "Hyderabad, India",
+  "location" : "Hyderabad, India  🇮🇳",
   "roles"    : ["AI/ML Engineer", "Full Stack Dev", "OSS Contributor"],
   "stack"    : ["Python", "Java", "JavaScript", "React", "Flask", "MongoDB"],
   "learning" : ["RAG Pipelines", "System Design", "FastAPI", "DSA in Java"],
-  "future"   : "Masters in CS — Germany → Top SWE / AI Role",
-  "open_to"  : "Internships · Collabs · Open Source · Mentorship"
+  "future"   : "Masters in CS — Germany  🇩🇪  →  Top SWE / AI Role",
+  "open_to"  : "Internships  ·  Collabs  ·  Open Source  ·  Mentorship"
 }
 ```
 
 ---
 
-## `> stack`
+## `> stack --list-all`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**LANGUAGES**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88&color=000000)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff88&color=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff88&color=000000)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff88&color=000000)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff88&color=000000)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff88&color=000000)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**FRAMEWORKS & DATABASES**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff88&color=000000)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff88&color=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff88&color=000000)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff88&color=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88&color=000000)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff88&color=000000)
+
+**TOOLS**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff88&color=000000)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88&color=000000)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=vscode&logoColor=00ff88&color=000000)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff88&color=000000)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00ff88&color=000000)
 
 </div>
 
 ---
 
-## `> projects`
+## `> ls ./projects`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![devdocs-ai](https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=devdocs-ai&theme=tokyonight&border_color=00ff88&title_color=00ff88&icon_color=00ff88&bg_color=0d1117)](https://github.com/enoshdev/devdocs-ai)
-[![opencontrib](https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=opencontrib&theme=tokyonight&border_color=00ff88&title_color=00ff88&icon_color=00ff88&bg_color=0d1117)](https://github.com/enoshdev/opencontrib)
+### `devdocs-ai`
 
-</div>
+> AI-powered docstring generator using **Groq LLaMA 3.1**. Reads your Python source, understands what it does, and writes professional documentation — automatically.
+>
+> Because 90% of devs skip docs. **This fixes that.**
 
-> **devdocs-ai** — AI tool powered by Groq LLaMA 3.1 that reads Python code and auto-generates professional docstrings. Because 90% of devs skip docs — this fixes that.
+![Groq](https://img.shields.io/badge/Groq-00ff88?style=flat-square&logo=groq&logoColor=black)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.1-00cc66?style=flat-square&logo=meta&logoColor=black)
+![Python](https://img.shields.io/badge/Python-001a0d?style=flat-square&logo=python&logoColor=00ff88)
 
-> **opencontrib** — Smart OSS discovery engine that matches your skill level to real projects and surfaces `good first issues`. Because open source shouldn't be intimidating.
+[![Repo](https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/enoshdev/devdocs-ai)
 
----
+</td>
+<td width="50%">
 
-## `> stats`
+### `opencontrib`
 
-<div align="center">
+> Smart OSS discovery engine that **matches your skill level** to real open source projects and surfaces `good-first-issues` in real time.
+>
+> Open source shouldn't be intimidating. **Now it isn't.**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enoshdev&show_icons=true&theme=tokyonight&border_color=00ff88&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/enoshdev)
+![OSS](https://img.shields.io/badge/Open_Source-00ff88?style=flat-square&logo=opensourceinitiative&logoColor=black)
+![Matching](https://img.shields.io/badge/AI_Matching-00cc66?style=flat-square&logo=databricks&logoColor=black)
+![JS](https://img.shields.io/badge/JavaScript-001a0d?style=flat-square&logo=javascript&logoColor=00ff88)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enoshdev&layout=compact&theme=tokyonight&border_color=00ff88&title_color=00ff88&bg_color=0d1117)](https://github.com/enoshdev)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/enoshdev/opencontrib)
 
-[![Streak](https://streak-stats.demolab.com?user=enoshdev&theme=tokyonight&border=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&background=0d1117)](https://github.com/enoshdev)
-
-</div>
-
----
-
-## `> trophies`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=enoshdev&theme=matrix&column=4&margin-w=10&margin-h=10&no-bg=true)](https://github.com/enoshdev)
-
-</div>
-
----
-
-## `> activity`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enoshdev&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true)](https://github.com/enoshdev)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## `> roadmap`
+## `> cat stats.json`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=enoshdev&show_icons=true&theme=chartreuse-dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88&text_color=00cc66&bg_color=000000&ring_color=00ff88&include_all_commits=true&count_private=true&border_radius=0"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoshdev&layout=compact&theme=chartreuse-dark&border_color=00ff88&title_color=00ff88&text_color=00cc66&bg_color=000000&border_radius=0"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=enoshdev&theme=dark&border=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&background=000000&sideLabels=00cc66&dates=00aa44&stroke=00ff88&sideNums=00ff88"/>
+
+</div>
+
+---
+
+## `> ./trophies.sh`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=enoshdev&theme=matrix&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=false)](https://github.com/enoshdev)
+
+</div>
+
+---
+
+## `> tail -f activity.log`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enoshdev&theme=react-dark&bg_color=000000&color=00ff88&line=00ff88&point=00ff88&area=true&area_color=003319&hide_border=false&border_color=00ff88&custom_title=COMMIT%20HISTORY%20—%20ALWAYS%20SHIPPING)](https://github.com/enoshdev)
+
+</div>
+
+---
+
+## `> cat roadmap.py`
 
 ```python
+# ════════════════════════════════════════════════════
+#  ENOSHDEV  ·  EXECUTION PLAN  ·  CLASSIFIED
+# ════════════════════════════════════════════════════
+
 targets = {
     "2026" : "Land SWE / AI internship  🇮🇳",
     "2027" : "Ship 3+ production-grade projects with real users  🛠️",
@@ -135,21 +181,36 @@ currently_doing = [
     "DSA in Java for interviews",
     "Consistent open source contributions",
 ]
+
+mission = "I don't just learn to code — I build things that actually matter."
+
+if __name__ == "__main__":
+    for year, goal in targets.items():
+        print(f"[{year}] → {goal}")
+    print(f"\n$ ./execute.sh --mission '{mission}'")
 ```
 
 ---
 
 <div align="center">
 
-*`> "I don't just learn to code — I build things that actually matter."`*
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     "I don't just learn to code — I build things that actually matter."      ║
+║                                                                              ║
+║                    [ ENOSHDEV · HYDERABAD · 2028 ]                          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
-[![Email](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enoshgollapalli@gmail.com)
+[![Connect](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
+[![Hire](https://img.shields.io/badge/SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enoshgollapalli@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003300,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,40:001a0d,100:000000&height=120&section=footer&animation=fadeIn&reversal=true)
 
 </div>
