@@ -1,68 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2010,100:0d1117&height=180&section=header&text=Gollapalli%20J.%20Enosh&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20OSS%20Contributor%20%E2%80%A2%20Hyderabad%2C%20India&descColor=00e676&descSize=14&fontAlignY=44&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Gollapalli%20J.%20Enosh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20OSS%20Contributor%20%E2%80%A2%20Hyderabad&descAlignY=60&descSize=16&descColor=00e676"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=15&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=520&lines=Building+things+that+actually+matter.+%F0%9F%9A%80;Full+Stack+Dev+%40+Vasavi+College+of+Engineering.;Python+%7C+Java+%7C+React+%7C+Flask+%7C+MongoDB.;Always+shipping.+Always+learning.+%E2%9A%A1" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e676)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00e676)](https://github.com/enoshdev)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00e676)](mailto:enoshgollapalli@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=enoshdev&style=for-the-badge&color=00e676&labelColor=0d1117&label=VIEWS)](https://github.com/enoshdev)
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e676,100:0d1117&height=2&section=header"/>
-
-<br/>
-
-```yaml
-alias    : enoshdev
-college  : Vasavi College of Engineering, Hyderabad
-degree   : B.Tech — Information Technology  (2028)
-stack    : Python  ·  Java  ·  React  ·  Flask  ·  MongoDB
-learning : RAG Pipelines  ·  FastAPI  ·  System Design
-open to  : Internships  ·  Collabs  ·  Open Source
-```
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e676,100:0d1117&height=2&section=header"/>
-
-<br/>
-
-## ⚡ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,flask,fastapi,nodejs,mongodb,mysql,git,linux,vscode,postman&perline=8&theme=dark"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e676,100:0d1117&height=2&section=header"/>
-
-<br/>
-
-## 🚀 Projects
-
-<div align="center">
-
-[![devdocs-ai](https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=devdocs-ai&theme=github_dark&border_color=21262d&title_color=00e676&icon_color=00e676&bg_color=0d1117&description_lines_count=2)](https://github.com/enoshdev/devdocs-ai)
-&nbsp;&nbsp;
-[![opencontrib](https://github-readme-stats.vercel.app/api/pin/?username=enoshdev&repo=opencontrib&theme=github_dark&border_color=21262d&title_color=00e676&icon_color=00e676&bg_color=0d1117&description_lines_count=2)](https://github.com/enoshdev/opencontrib)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E676&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+things+that+matter+%E2%9A%A1;Python+%7C+Java+%7C+React+%7C+Flask;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning.+Always+Shipping." />
 
 </div>
 
@@ -70,73 +14,139 @@ open to  : Internships  ·  Collabs  ·  Open Source
 
 <div align="center">
 
-| Project | What it does |
-|:---|:---|
-| **devdocs-ai** | AI docstring generator powered by Groq LLaMA 3.1 — reads Python source, writes professional docs automatically |
-| **opencontrib** | Smart OSS discovery engine — matches skill level to real projects, surfaces `good-first-issues` |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enoshdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enoshgollapalli@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=enoshdev&style=for-the-badge&color=00e676&labelColor=0d1117)](https://github.com/enoshdev)
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e676,100:0d1117&height=2&section=header"/>
-
-<br/>
-
-## 📊 Stats
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enoshdev&show_icons=true&theme=github_dark&border_color=21262d&title_color=00e676&icon_color=00e676&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=false"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoshdev&layout=compact&theme=github_dark&border_color=21262d&title_color=00e676&text_color=8b949e&bg_color=0d1117&langs_count=6"/>
+### 👨‍💻 About Me
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=enoshdev&theme=github-dark-blue&border=21262d&ring=00e676&fire=00e676&currStreakLabel=00e676&background=0d1117&sideLabels=8b949e&dates=8b949e&stroke=21262d&sideNums=ffffff"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e676,100:0d1117&height=2&section=header"/>
-
-<br/>
-
-## 📈 Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enoshdev&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=0a2010&hide_border=true&theme=github-compact&custom_title=Contribution%20Graph"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e676,100:0d1117&height=2&section=header"/>
-
-<br/>
-
-<div align="center">
-
-<br/>
 
 ```
-  "I don't just learn to code — I build things that actually matter."
+🎓  B.Tech — Information Technology @ Vasavi College of Engineering (2028)
+📍  Hyderabad, India
+🛠️  Building AI tools and full-stack apps that developers love
+🌱  Currently learning: RAG Pipelines · FastAPI · System Design
+🤝  Open to: Internships · Collabs · Open Source · Mentorship
+⚡  Fun fact: I believe clean code is an art form
 ```
 
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+</div>
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+</div>
+
+<div align="center">
+
+| 🔧 Project | 📝 Description | 🏷️ Tags |
+|:---:|:---|:---:|
+| [**devdocs-ai**](https://github.com/enoshdev/devdocs-ai) | AI-powered docstring generator using Groq LLaMA 3.1. Reads Python source and writes professional documentation automatically. 90% of devs skip docs — this fixes that. | `Python` `Groq` `LLM` |
+| [**opencontrib**](https://github.com/enoshdev/opencontrib) | Smart OSS discovery engine. Matches your skill level to real open-source projects and surfaces good first issues. Open source made approachable. | `JavaScript` `OSS` |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
 <br/>
 
-[![Connect](https://img.shields.io/badge/Let's%20Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e676)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Say%20Hello-0d1117?style=for-the-badge&logo=gmail&logoColor=00e676)](mailto:enoshgollapalli@gmail.com)
+![Enosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=enoshdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2010,100:0d1117&height=120&section=footer&animation=fadeIn&reversal=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enoshdev&layout=compact&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=enoshdev&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enoshdev&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Currently Exploring
+
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+*"I don't just learn to code — I build things that actually matter."*
+
+<br/>
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gollapalli-j-enosh-623931284/)
+[![Say Hello](https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enoshgollapalli@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=fadeIn&reversal=true"/>
 
 </div>
