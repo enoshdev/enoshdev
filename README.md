@@ -33,7 +33,7 @@
 
 ```yaml
 🎓  B.Tech IT  @  Vasavi College of Engineering, Hyderabad  (2028)
-🛠️  Full Stack Developer — Python · Java · React · Flask · MongoDB
+🛠️  Full Stack Developer — Python · Java · React · MongoDB
 🌱  Learning   — RAG Pipelines · FastAPI · System Design
 🤝  Open to    — Internships · Collabs · Open Source · Mentorship
 ⚡  I build dev tools that engineers actually want to use
